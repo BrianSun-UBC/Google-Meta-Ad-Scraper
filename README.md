@@ -1,4 +1,4 @@
-# Facebook Ad Scraper
+# Google & Meta Ad Scraper Prototype
 
 A Python scraper for the Facebook Ad Library, using the official [Facebook Ad Library API](https://www.facebook.com/ads/library/api/). This tool will **ONLY** work for users who have been approved for access to the API via Facebook. This scraper also performs cleaning to make the data easier to analyze and work around very strange data encoding decisions (e.g. the script will impute 0 for missing demographics and regions)
 
